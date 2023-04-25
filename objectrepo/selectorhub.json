@@ -1,0 +1,15 @@
+{
+    "objRepo":{
+        "uiControls":{
+            "userId": "#userId",
+            "Password":"input[type='password']",
+            "dropdownvalue":"#cars",
+            "checkbox":"#ohrmList_chkSelectRecord_25"
+        },
+        "childelements":{
+            "secondwindow":"a[title='Click to donate']",
+            "newpagestructure":"page",
+            "newstringvalue":"//h2[normalize-space()='Donate Via Stripe']"
+        }
+    }
+}
